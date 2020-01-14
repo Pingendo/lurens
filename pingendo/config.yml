@@ -1,5 +1,5 @@
 index_path : "index.html"
-sources_path : "assets"
+sources_path : "assets/"
 netlify_site_name : "lurens"
 production_branch : "master"
 
