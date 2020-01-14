@@ -1,2 +1,5 @@
-index_path: /index.html
-netlify_site_name : lurens
+index_path : "index.html"
+sources_path : ""
+netlify_site_name : "lurens"
+production_branch : "master"
+
